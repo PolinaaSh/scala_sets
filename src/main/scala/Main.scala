@@ -63,5 +63,7 @@ object Main extends App {
       else iterate(s, accumulateSet, a+1)
     }
     iterate(s, x=>false, -3)
+
+
   }
 }
